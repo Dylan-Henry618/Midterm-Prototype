@@ -1,3 +1,7 @@
+*{
+  font-family: 'Ranchers', cursive;
+}
+
 .navigationBar {
   width: 80%;
   margin: 0 auto;
@@ -77,11 +81,11 @@ body {
 
 }
 
-h1 {
+h3 {
   font-size: 60px;
 }
 
-h2 {
+h4 {
   padding-top: 20px;
   font-size: 70px;
   color: blue;
